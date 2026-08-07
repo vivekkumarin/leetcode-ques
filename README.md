@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vivekkumarin/leetcode-ques/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0136-single-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivekkumarin/leetcode-ques/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -31,6 +32,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
 ## Sorting
 |  |
