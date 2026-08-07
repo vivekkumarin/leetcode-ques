@@ -6,7 +6,7 @@ public:
         for(int i=0;i<nums.size();i++){
             if(nums[i]==1){
                 count+=1;
-                maxi=max(count,maxi);
+                maxi=max(maxi,count);
             }else{
                 count=0;
             }
