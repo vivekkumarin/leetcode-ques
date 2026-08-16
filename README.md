@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/vivekkumarin/leetcode-ques/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekkumarin/leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivekkumarin/leetcode-ques/tree/master/0283-move-zeroes) |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vivekkumarin/leetcode-ques/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekkumarin/leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
