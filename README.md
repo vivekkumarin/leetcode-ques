@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vivekkumarin/leetcode-ques/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vivekkumarin/leetcode-ques/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/vivekkumarin/leetcode-ques/tree/master/0075-sort-colors) |
@@ -26,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vivekkumarin/leetcode-ques/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
