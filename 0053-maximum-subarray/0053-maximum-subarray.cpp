@@ -9,8 +9,6 @@ public:
              maxsum=max(sum,maxsum);
             if(sum<0){
                 sum=0;
-            }else{
-                
             }
         }
         return maxsum;
