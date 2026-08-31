@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vivekkumarin/leetcode-ques/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
