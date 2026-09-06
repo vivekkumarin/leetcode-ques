@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vivekkumarin/leetcode-ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vivekkumarin/leetcode-ques/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vivekkumarin/leetcode-ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vivekkumarin/leetcode-ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vivekkumarin/leetcode-ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vivekkumarin/leetcode-ques/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vivekkumarin/leetcode-ques/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekkumarin/leetcode-ques/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vivekkumarin/leetcode-ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vivekkumarin/leetcode-ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vivekkumarin/leetcode-ques/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vivekkumarin/leetcode-ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vivekkumarin/leetcode-ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vivekkumarin/leetcode-ques/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
@@ -99,10 +102,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivekkumarin/leetcode-ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vivekkumarin/leetcode-ques/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vivekkumarin/leetcode-ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vivekkumarin/leetcode-ques/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
